@@ -41,5 +41,4 @@ public class IndexServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
-
 }
